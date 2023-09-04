@@ -1,3 +1,4 @@
 ls -l
 exit
-ls
+ls -l
+pwd
